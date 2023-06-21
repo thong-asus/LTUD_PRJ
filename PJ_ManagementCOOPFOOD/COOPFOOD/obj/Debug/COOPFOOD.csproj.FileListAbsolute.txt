@@ -1,0 +1,159 @@
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmThongTin.resources
+E:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+E:\Hk1-22-23\Lập trình ứng dụng\Project\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+F:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmMain.resources
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+D:\hk1-22-23\lap trinh ung dung\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHoaDon.resources
+C:\Users\j4thong\Desktop\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+C:\Users\j4thong\Desktop\Project\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHoaDon.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhaCungCap.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmMain.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHoaDon.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhaCungCap.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmMain.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+E:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+F:\#CSDL_PRJ\New folder\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHangHoa.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHoaDon.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHangHoa.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhaCungCap.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmMain.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe.config
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.Shared.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\stdole.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe.config
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\stdole.dll
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csprojResolveAssemblyReference.cache
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHoaDon.resources
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHangHoa.resources
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhaCungCap.resources
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmMain.resources
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+E:\#CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmLogin.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe.config
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.exe
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.pdb
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.exe
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\COOPFOOD.pdb
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.Shared.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\stdole.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHoaDon.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmHangHoa.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmKhachHang.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmLogin.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhaCungCap.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmNhanVien.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frmMain.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.Properties.Resources.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.csproj.GenerateResource.Cache
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frm_XemDSKH_rpt.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\FlashControlV71.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\bin\Debug\ShockwaveFlashObjects.dll
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frm_XemDSHangHoa_rpt.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frm_XemDSNhaCungCap_rpt.resources
+F:\A_2022_2023\CSDL_PRJ\Backup\QLST_COOPFOOD\PJ_ManagementCOOPFOOD\COOPFOOD\obj\Debug\COOPFOOD.frm_XemDSNV_rpt.resources
